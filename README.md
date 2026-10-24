@@ -18,3 +18,6 @@ Not included: end-to-end encryption (OMEMO), voice/video, message receipts.
 
 # Compiling
 Compile via terminal using `build.sh`
+
+# Additional info
+NOT **ENDORSED** OR **AFFILIATED** WITH **Google LLC**
