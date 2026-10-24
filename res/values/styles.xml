@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/HgBar</item>
+    </style>
+    <style name="HgBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">@drawable/hg_bar_bg</item>
+        <item name="android:titleTextStyle">@style/HgTitle</item>
+        <item name="android:subtitleTextStyle">@style/HgSub</item>
+    </style>
+    <style name="HgTitle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">#ff6e6e6e</item>
+    </style>
+    <style name="HgSub" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Subtitle">
+        <item name="android:textColor">#ff9a9a9a</item>
+    </style>
+</resources>
